@@ -1,0 +1,17 @@
+SaleID,CustomerName,Product,Category,Quantity,UnitPrice,SaleDate,City
+2001,Arun,Laptop,Electronics,1,55000,2025-01-10,Chennai
+2002,Priya,Mobile,Electronics,2,18000,2025-01-12,Coimbatore
+2003,Karthik,Headphones,Accessories,3,1500,2025-01-14,Madurai
+2004,Divya,Chair,Furniture,1,4500,2025-01-15,Salem
+2005,Vijay,Desk,Furniture,1,7000,2025-01-16,Trichy
+2006,Anu,Smart Watch,Electronics,2,6500,2025-01-18,Chennai
+2007,Rahul,Keyboard,Accessories,4,1200,2025-01-20,Erode
+2008,Meena,Monitor,Electronics,1,14000,2025-01-22,Vellore
+2009,Suresh,Mouse,Accessories,5,700,2025-01-24,Tirunelveli
+2010,Keerthi,Tablet,Electronics,1,22000,2025-01-25,Chennai
+2011,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
+2011,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
+10,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
+10,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
+10,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
+10,joe,Mouse,Accessories,3,23000,2025-01-22,Chennai
