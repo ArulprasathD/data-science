@@ -1,0 +1,4 @@
+OPERATIONS = {
+    1 : "add",
+    2 : "multiple"
+}
